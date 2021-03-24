@@ -61,7 +61,7 @@ def get_filters():
     ALL = 'all'
 
     print('Hello! Let\'s explore some US bikeshare data!')
-    city_list = ('chicago', 'new york city', 'washington','miami')
+    city_list = ('chicago', 'new york city', 'washington','miami','los angeles')
     city = input('Which of these cities do you want to explore : Chicago,New York City or Washington? \n>').casefold().strip()
 
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
