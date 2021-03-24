@@ -7,7 +7,7 @@ Wednesday 24/3/2021
 Bikeshare
 
 ### Description
-It is a description of bike share data at the stations and excursions for subscribers and visitors in the following cities: New York, Washington, and Chicago
+It is a description of bike share data at the stations and excursions for subscribers and visitors in the following cities: New York, Washington, and Chicago.
 
 
 ### Files used
