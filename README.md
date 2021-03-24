@@ -9,9 +9,12 @@ Bikeshare
 ### Description
 It is a description of bike share data at the stations and excursions for subscribers and visitors in the following cities: New York, Washington, and Chicago
 
+
 ### Files used
-Include the files used
+bikeshare.py
+.gitignore
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/udacity/pdsnd_github
+
 
