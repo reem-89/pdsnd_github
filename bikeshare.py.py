@@ -26,12 +26,7 @@ months = {
     4:'April',
     5:'May',
     6:'June',
-    7:'July',
-    8:'August',
-    9:'September',
-    10:'October',
-    11:'November',
-    12:'December'}
+    7:'July'}
 
 
 
@@ -61,7 +56,7 @@ def get_filters():
     ALL = 'all'
 
     print('Hello! Let\'s explore some US bikeshare data!')
-    city_list = ('chicago', 'new york city', 'washington')
+    city_list = ('chicago', 'new york city', 'washington','miami','los angeles')
     city = input('Which of these cities do you want to explore : Chicago,New York City or Washington? \n>').casefold().strip()
 
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
