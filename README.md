@@ -7,7 +7,7 @@
 Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+It is a description of bike share data at the stations and excursions for subscribers and visitors in the following cities: New York, Washington, and Chicago
 
 ### Files used
 Include the files used
